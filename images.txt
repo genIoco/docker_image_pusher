@@ -7,3 +7,4 @@ xhofe/alist:latest
 sharelatex/sharelatex
 ghcr.io/open-webui/open-webui:main
 ollama/ollama
+mintplexlabs/anythingllm
