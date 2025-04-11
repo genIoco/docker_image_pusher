@@ -9,3 +9,4 @@ ghcr.io/open-webui/open-webui:main
 ollama/ollama
 mintplexlabs/anythingllm
 mysql:5.7
+rustdesk/rustdesk-server
