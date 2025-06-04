@@ -10,3 +10,4 @@ ollama/ollama
 mintplexlabs/anythingllm
 mysql:5.7
 rustdesk/rustdesk-server
+wordpress:6.8.1-php8.4-fpm
